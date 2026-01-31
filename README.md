@@ -259,8 +259,8 @@ const zoubeir = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/🇫🇷_Français-Natif-6366f1?style=for-the-badge" alt="Français"/>
-  <img src="https://img.shields.io/badge/🇸🇦_Arabe-Courant-6366f1?style=for-the-badge" alt="Arabe"/>
-  <img src="https://img.shields.io/badge/🇬🇧_Anglais-Professionnel-6366f1?style=for-the-badge" alt="Anglais"/>
+  <img src="https://img.shields.io/badge/🇸🇦_Arabe-Lecture-Ecriture-6366f1?style=for-the-badge" alt="Arabe"/>
+  <img src="https://img.shields.io/badge/🇬🇧_Anglais-technique-6366f1?style=for-the-badge" alt="Anglais"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
