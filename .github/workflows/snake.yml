@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Exécution tous les jours à minuit UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -13,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Generate github-contribution-grid-snake.svg
