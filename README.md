@@ -50,12 +50,13 @@ class Zoubeir:
 
 |  | |
 |:--:|:--|
-| 🔭 | Je construis **[Snapfolioo](https://snapfolioo.vercel.app)** |
-| 🌱 | J'apprends **Spring Boot & IA appliquée** |
+| 🔭 | Je construis **snapfolioo, smarthr.tech, dokflowIA...etc** |
+| 🌱 | J'apprends **Django, FastApi & IA appliquée** |
 | ⚙️ | Je code en **Django · Laravel · React** |
 | 🎓 | Certifié **Harvard CS50x & CS50P** |
 | 💬 | Parlons **backend, SaaS, open source** |
 | 📫 | **[Zoubeiribrahima@gmail.com](mailto:Zoubeiribrahima@gmail.com)** |
+| 🌐 | **[Portfolio](zoubeir.me)** |
 
 </td>
 </tr>
