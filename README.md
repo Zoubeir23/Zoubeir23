@@ -109,6 +109,7 @@ class Zoubeir:
 <td width="50%" valign="top">
 
 ### 🎨 Snapfolioo
+
 > **SaaS** — Générateur de portfolios, CV et bannières LinkedIn
 
 Créer une présence en ligne professionnelle sans écrire une ligne de code.
@@ -120,13 +121,14 @@ Créer une présence en ligne professionnelle sans écrire une ligne de code.
 
 `React` `TypeScript` `Tailwind` `Supabase` `PostgreSQL` `Vite`
 
-<a href="https://snapfolioo.vercel.app"><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://snapfolioo.vercel.app"><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-6366F1?style=for-the-badge&labelColor=0D1117" alt="Snapfolioo"/></a>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🧠 Smart-HR
+
 > **SaaS** — Le SIRH qui anticipe au lieu de constater
 
 Un système d'information RH qui utilise l'IA pour agir avant que le problème n'arrive.
@@ -134,11 +136,11 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 - **Prédiction du turnover** — détecte les risques de démission
 - **Matching CV automatique** — tri et scoring des candidatures
 - **Chatbot RH** — répond aux questions courantes des salariés
-- Gestion RH centralisée : congés, contrats, effectifs
+- Gestion centralisée : congés, contrats, effectifs
 
 `Django` `PostgreSQL` `React` `Machine Learning` `NLP`
 
-<a href="https://smart-hr.tech/"><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-D62828?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://smart-hr.tech/"><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-D62828?style=for-the-badge&labelColor=0D1117" alt="Smart-HR"/></a>
 
 </td>
 
@@ -148,27 +150,26 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 <td width="50%" valign="top">
 
 ### 📄 DokflowIA
-> **SaaS** — <!-- TODO: une phrase, le problème que ça résout -->
 
-<!-- TODO: 1 ligne de contexte -->
+> **SaaS** — Gestion documentaire augmentée par l'IA
 
-<!-- TODO: 3 à 4 fonctionnalités concrètes -->
-- 
-- 
-- 
+Automatiser le traitement des documents plutôt que de les classer à la main.
 
-<!-- TODO: la vraie stack -->
-`` `` ``
+- Extraction et classification automatique de documents
+- Recherche sémantique dans les archives
+- Workflows de validation configurables
+- API REST pour intégration aux outils existants
 
-<!-- TODO: décommente quand le lien est prêt
-<a href="https://..."><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-0EA5E9?style=for-the-badge&labelColor=0D1117"/></a>
--->
+`Python` `FastAPI` `PostgreSQL` `LLM`
+
+<img src="https://img.shields.io/badge/🚧%20En%20développement-F59E0B?style=for-the-badge&labelColor=0D1117" alt="En développement"/>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🧩 Autres travaux
+
 > Projets académiques & freelance
 
 - **APIs REST Django** — architecture modulaire, JWT, tests
@@ -178,7 +179,7 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 
 <br/>
 
-<a href="https://github.com/Zoubeir23?tab=repositories"><img src="https://img.shields.io/badge/📂%20Tous%20mes%20repos-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Zoubeir23?tab=repositories"><img src="https://img.shields.io/badge/📂%20Tous%20mes%20repos-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 
 </td>
 
@@ -193,8 +194,17 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Zoubeir23&show_icons=true&count_private=true&hide_border=true&border_radius=12&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Stats"/>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubeir23&layout=compact&langs_count=8&hide_border=true&border_radius=12&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Langages"/>
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoubeir23&theme=github_dark" alt="Profil"/>
+
+<br/>
+
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zoubeir23&theme=github_dark" alt="Stats"/>
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubeir23&theme=github_dark" alt="Langages les plus utilisés"/>
+
+<br/>
+
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoubeir23&theme=github_dark" alt="Repos par langage"/>
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoubeir23&theme=github_dark&utcOffset=0" alt="Heures productives"/>
 
 <br/><br/>
 
@@ -206,7 +216,7 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zoubeir23&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophées"/>
+<img src="https://github-trophies.vercel.app/?username=Zoubeir23&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophées"/>
 
 </div>
 
@@ -246,6 +256,7 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 
 <details>
 <summary><b>Voir toutes les certifications</b></summary>
+
 <br/>
 
 | Plateforme | Certification | Année |
@@ -270,14 +281,14 @@ Un système d'information RH qui utilise l'IA pour agir avant que le problème n
 
 Stage · Alternance · Freelance — je suis disponible.
 
-<img src="https://img.shields.io/badge/Stage-Disponible-3ECF8E?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Emploi-Disponible-3ECF8E?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Freelance-Disponible-3ECF8E?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Stage-Disponible-3ECF8E?style=for-the-badge&labelColor=0D1117" alt="Stage"/>
+<img src="https://img.shields.io/badge/Emploi-Disponible-3ECF8E?style=for-the-badge&labelColor=0D1117" alt="Emploi"/>
+<img src="https://img.shields.io/badge/Freelance-Disponible-3ECF8E?style=for-the-badge&labelColor=0D1117" alt="Freelance"/>
 
 <br/><br/>
 
-<a href="mailto:Zoubeiribrahima@gmail.com"><img src="https://img.shields.io/badge/📧%20Me%20contacter-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
-<a href="https://linkedin.com/in/zoubeir-ibrahima/"><img src="https://img.shields.io/badge/💬%20Discutons%20sur%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="mailto:Zoubeiribrahima@gmail.com"><img src="https://img.shields.io/badge/📧%20Me%20contacter-6366F1?style=for-the-badge&labelColor=0D1117" alt="Contact"/></a>
+<a href="https://linkedin.com/in/zoubeir-ibrahima/"><img src="https://img.shields.io/badge/💬%20Discutons%20sur%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/></a>
 
 <br/><br/>
 
