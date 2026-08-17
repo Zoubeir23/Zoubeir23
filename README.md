@@ -5,14 +5,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zoubeir%20IBRAHIMA%20AMED&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Développeur%20FullStack%20·%20Dakar,%20Sénégal&descSize=16&descAlignY=52" width="100%"/>
 
 <a href="https://www.zoubeir.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Backend+Django+%26+FastApi;Clean+Code+%2B+Architecture+SaaS;IA+appliqu%C3%A9e+au+d%C3%A9veloppement;Bienvenue+sur+mon+profil+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Backend+Django+%26+FastAPI;Clean+Code+%2B+Architecture+SaaS;IA+appliqu%C3%A9e+au+d%C3%A9veloppement;Bienvenue+sur+mon+profil+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://zoubeiribrahima.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://www.zoubeir.me"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/zoubeir-ibrahima/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:Zoubeiribrahima@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Zoubeir23&label=Vues%20du%20profil&color=6366f1&style=flat-square" alt="Vues"/>
@@ -35,9 +36,9 @@
 class Zoubeir:
     localisation = "Dakar, Sénégal 🇸🇳"
     formation    = "Licence IAGE — ISI Dakar"
-    focus        = ["Backend", "Django", "FastApi"]
+    focus        = ["Backend", "Django", "FastAPI"]
     exploration  = ["LLM & agents de code", "Clean Architecture"]
-    projet_phare = "Snapfolioo, DokflowIA, SmartHR (SaaS)"
+    produits     = ["Snapfolioo", "Smart-HR", "DokflowIA"]
 
     def journee_type(self):
         return "☕ → 🧠 → 💻 → 🚀"
@@ -48,13 +49,13 @@ class Zoubeir:
 
 |  | |
 |:--:|:--|
-| 🔭 | Je construis **snapfolioo, smarthr.tech, dokflowIA...etc** |
-| 🌱 | J'apprends **Django, FastApi & IA appliquée** |
+| 🔭 | Je construis **3 produits SaaS** en parallèle |
+| 🌱 | J'apprends **FastAPI & IA appliquée** |
 | ⚙️ | Je code en **Django · Laravel · React** |
 | 🎓 | Certifié **Harvard CS50x & CS50P** |
 | 💬 | Parlons **backend, SaaS, open source** |
+| 🌐 | **[zoubeir.me](https://www.zoubeir.me)** |
 | 📫 | **[Zoubeiribrahima@gmail.com](mailto:Zoubeiribrahima@gmail.com)** |
-| 🌐 | **[Portfolio](zoubeir.me)** |
 
 </td>
 </tr>
@@ -74,7 +75,7 @@ class Zoubeir:
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=django,spring,laravel,nodejs,express&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,laravel,nodejs,express&theme=dark" alt="Backend"/>
 
 **Frontend**
 
@@ -100,33 +101,78 @@ class Zoubeir:
 
 <!-- ═══════════════════════════ PROJETS ═══════════════════════════ -->
 
-## &nbsp;🚀&nbsp; Projets
+## &nbsp;🚀&nbsp; Produits & Projets
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎨 Snapfolioo
-> Générateur de portfolios, CV et bannières LinkedIn — SaaS complet
+> **SaaS** — Générateur de portfolios, CV et bannières LinkedIn
 
-**Ce que ça fait**
+Créer une présence en ligne professionnelle sans écrire une ligne de code.
+
 - 18+ templates responsive prêts à l'emploi
 - Éditeur visuel temps réel & auto-sauvegarde
 - Auth Google OAuth + Row Level Security
-- Export HTML / PDF / PNG
+- Export HTML / PDF / PNG · multi-projets
 
 `React` `TypeScript` `Tailwind` `Supabase` `PostgreSQL` `Vite`
 
-<a href="https://snapfolioo.vercel.app"><img src="https://img.shields.io/badge/▶%20Voir%20le%20projet-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://snapfolioo.vercel.app"><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🧠 Smart-HR
+> **SaaS** — Le SIRH qui anticipe au lieu de constater
+
+Un système d'information RH qui utilise l'IA pour agir avant que le problème n'arrive.
+
+- **Prédiction du turnover** — détecte les risques de démission
+- **Matching CV automatique** — tri et scoring des candidatures
+- **Chatbot RH** — répond aux questions courantes des salariés
+- Gestion RH centralisée : congés, contrats, effectifs
+
+`Django` `PostgreSQL` `React` `Machine Learning` `NLP`
+
+<a href="https://smart-hr.tech/"><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-D62828?style=for-the-badge&labelColor=0D1117"/></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📄 DokflowIA
+> **SaaS** — <!-- TODO: une phrase, le problème que ça résout -->
+
+<!-- TODO: 1 ligne de contexte -->
+
+<!-- TODO: 3 à 4 fonctionnalités concrètes -->
+- 
+- 
+- 
+
+<!-- TODO: la vraie stack -->
+`` `` ``
+
+<!-- TODO: décommente quand le lien est prêt
+<a href="https://..."><img src="https://img.shields.io/badge/▶%20Voir%20le%20produit-0EA5E9?style=for-the-badge&labelColor=0D1117"/></a>
+-->
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🧩 Autres travaux
-> Sélection de projets récents
+> Projets académiques & freelance
 
-- **API REST Django** — architecture modulaire, JWT, tests
-- **Applications Laravel** — CRUD métier, authentification, rôles
+- **APIs REST Django** — architecture modulaire, JWT, tests
+- **Applications Laravel** — CRUD métier, rôles & permissions
 - **Interfaces React / Next.js** — dashboards et pages produit
 - **CI/CD** — GitHub Actions, Docker, déploiements Vercel
 
@@ -135,6 +181,7 @@ class Zoubeir:
 <a href="https://github.com/Zoubeir23?tab=repositories"><img src="https://img.shields.io/badge/📂%20Tous%20mes%20repos-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
+
 </tr>
 </table>
 
