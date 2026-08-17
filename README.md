@@ -13,8 +13,6 @@
 <a href="https://zoubeiribrahima.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/zoubeir-ibrahima/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:Zoubeiribrahima@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-<a href="https://snapfolioo.vercel.app"><img src="https://img.shields.io/badge/Snapfolioo-3ECF8E?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Snapfolioo"/></a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Zoubeir23&label=Vues%20du%20profil&color=6366f1&style=flat-square" alt="Vues"/>
@@ -37,9 +35,9 @@
 class Zoubeir:
     localisation = "Dakar, Sénégal 🇸🇳"
     formation    = "Licence IAGE — ISI Dakar"
-    focus        = ["Backend", "Django", "Spring Boot"]
+    focus        = ["Backend", "Django", "FastApi"]
     exploration  = ["LLM & agents de code", "Clean Architecture"]
-    projet_phare = "Snapfolioo (SaaS)"
+    projet_phare = "Snapfolioo, DokflowIA, SmartHR (SaaS)"
 
     def journee_type(self):
         return "☕ → 🧠 → 💻 → 🚀"
