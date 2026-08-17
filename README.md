@@ -160,7 +160,7 @@ Automatiser le traitement des documents plutôt que de les classer à la main.
 - Workflows de validation configurables
 - API REST pour intégration aux outils existants
 
-`Python` `FastAPI` `PostgreSQL` `LLM`
+`Nextjs` `supabase` `PostgreSQL` `LLM`
 
 <img src="https://img.shields.io/badge/🚧%20En%20développement-F59E0B?style=for-the-badge&labelColor=0D1117" alt="En développement"/>
 
