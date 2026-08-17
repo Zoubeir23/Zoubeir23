@@ -4,8 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zoubeir%20IBRAHIMA%20AMED&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Développeur%20FullStack%20·%20Dakar,%20Sénégal&descSize=16&descAlignY=52" width="100%"/>
 
-<a href="https://zoubeiribrahima.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Backend+Django+%26+Spring+Boot;Clean+Code+%2B+Architecture+SaaS;IA+appliqu%C3%A9e+au+d%C3%A9veloppement;Bienvenue+sur+mon+profil+%F0%9F%91%8B" alt="Typing SVG" />
+<a href="https://www.zoubeir.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Backend+Django+%26+FastApi;Clean+Code+%2B+Architecture+SaaS;IA+appliqu%C3%A9e+au+d%C3%A9veloppement;Bienvenue+sur+mon+profil+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/><br/>
